@@ -1,0 +1,6 @@
+{
+  "name": "LifePilot AI — Predict Better. Live Better.",
+  "description": "A Digital Twin that predicts how today's choices shape your academic success and wellbeing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
